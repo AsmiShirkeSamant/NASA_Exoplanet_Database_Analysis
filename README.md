@@ -1,6 +1,6 @@
 # Exoplanet Data Pipeline & Dashboard
 
-![Exoplanet Dashboard](Dashboard_SS.png)
+![Exoplanet Dashboard](Dashboard_SS_1.png)
 
 > A full-stack data engineering project analyzing NASA's exoplanet archive — 
 > from raw CSV to relational database, interactive Tableau dashboard, 
